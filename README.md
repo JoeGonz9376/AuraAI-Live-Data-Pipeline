@@ -263,7 +263,7 @@ If you have any question, don't hesitate to [open an issue on GitHub](https://gi
 
 
 
-## 🤝 Featured Collaborations & Integrations
+## 🤝 Featured Collaborations & Integrations.
 
 We build cutting-edge data processing pipelines and co-promote solutions that push the boundaries of what's possible with Python and streaming data.
 Meet the people helping us shape the future of data engineering.
